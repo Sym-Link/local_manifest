@@ -8,15 +8,22 @@
   <project name="Team-Hydra/android_frameworks_base" path="frameworks/base" revision="cm-10.1" />
   <remove-project name="CyanogenMod/android_hardware_libhardware" />
   <project name="Team-Hydra/android_hardware_libhardware" path="hardware/libhardware" revision="cm-10.1" />
+  <project name="Team-Hydra/android_hardware_libhardware_legacy" path="hardware/libhardware_legacy" />
   <remove-project name="CyanogenMod/android_hardware_qcom_media" />
   <project name="Team-Hydra/android_hardware_qcom_media" path="hardware/qcom/media" revision="cm-10.1" />
   <remove-project name="CyanogenMod/android_packages_apps_Camera" />
   <project name="Team-Hydra/android_packages_apps_Camera" path="packages/apps/Camera" revision="cm-10.1" />
   <project name="Team-Hydra/android_device_htc_msm8660-common" path="device/htc/msm8660-common" revision="cm-10.1" />
-  <project name="Sym-Link/android_device_htc_pyramid" path="device/htc/pyramid" revision="cm-10.1" />
+  <project name="Team-Hydra/android_device_htc_pyramid" path="device/htc/pyramid" revision="cm-10.1" />
   <project name="Team-Hydra/android_kernel_htc_pyramid" path="kernel/htc/msm8660" revision="cm-10.1" />
   <project name="Team-Hydra/android_vendor_htc" path="vendor/htc" revision="cm-10.1" />
   <project name="Team-Hydra/android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" revision="cm-10.1" />
   <project name="Team-Hydra/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" revision="cm-10.1" />
   <project name="Team-Hydra/android_hardware_qcom_audio-legacy" path="hardware/qcom/audio-legacy" revision="cm-10.1" />
+  <remove-project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
+  <project path="hardware/qcom/gps" name="Team-Hydra/android_hardware_qcom_gps" />
+  <project path="hardware/qcom/gps-legacy" name="Team-Hydra/android_hardware_qcom_gps-legacy" />
+  <project path="kernel/htc/msm7x30" name="Team-Hydra/android_kernel_htc_msm7x30-3.0" />
+  <project path="kernel/htc/msm8660" name="Team-Hydra/android_kernel_htc_msm8660" />
+  <project path="kernel/htc/msm8960" name="Team-Hydra/android_kernel_htc_msm8960" />
 </manifest>
