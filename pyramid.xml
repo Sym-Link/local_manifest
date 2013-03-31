@@ -14,13 +14,8 @@
   <project name="Team-Hydra/android_packages_apps_Camera" path="packages/apps/Camera" revision="cm-10.1" />
   <project name="Team-Hydra/android_device_htc_msm8660-common" path="device/htc/msm8660-common" revision="cm-10.1" />
   <project name="Sym-Link/android_device_htc_pyramid" path="device/htc/pyramid" revision="cm-10.1" />
-<<<<<<< HEAD
   <project name="Team-Hydra/android_kernel_htc_pyramid" path="kernel/htc/msm8660" revision="cm-10.1-linaro" />
   <project name="Team-Hydra/android_vendor_htc" path="vendor/htc" revision="master" />
-=======
-  <project name="Albinoman887/android_kernel_htc_pyramid" path="kernel/htc/pyramid" revision="cm-10.1-linaro" />
-  <project name="Albinoman887/android_vendor_htc_pyramid" path="vendor/htc/pyramid" revision="master" />
->>>>>>> f8700dc27a2e52efc832ffd2aa81f18b05de0038
   <project name="Team-Hydra/android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" revision="cm-10.1" />
   <project name="Team-Hydra/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" revision="cm-10.1" />
   <project name="Team-Hydra/android_hardware_qcom_audio-legacy" path="hardware/qcom/audio-legacy" revision="cm-10.1" />
