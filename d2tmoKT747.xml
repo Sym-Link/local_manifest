@@ -6,10 +6,13 @@
   <project name="CyanogenMod/android_kernel_samsung_d2" path="kernel/samsung/d2" remote="github" />
   <project name="CyanogenMod/android_device_samsung_d2-common" path="device/samsung/d2-common" remote="github" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
+  <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="github" />
   <project name="CyanogenMod/android_device_samsung_jfltetmo" path="device/samsung/jfltetmo" remote="github" />
   <project name="CyanogenMod/android_device_samsung_jf-common" path="device/samsung/jf-common" remote="github" />
   <project name="CyanogenMod/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="github" />
   <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" />
+  <project name="CyanogenMod/android_device_asus_grouper" path="device/asus/grouper" remote="github" />
+  <project name="CyanogenMod/android_kernel_asus_grouper" path="kernel/asus/grouper" remote="github" />
   <remove-project path="packages/apps/Gallery2" name="CyanogenMod/android_packages_apps_Gallery2" />
   <project path="packages/apps/Gallery2" name="Sym-Link/android_packages_apps_Gallery2" />
 </manifest>
