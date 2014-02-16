@@ -19,4 +19,6 @@
   <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" />
   <project name="CyanogenMod/android_device_asus_grouper" path="device/asus/grouper" remote="github" />
   <project name="CyanogenMod/android_kernel_asus_grouper" path="kernel/asus/grouper" remote="github" />
+  <remove-project name="CyanogenMod/android_packages_apps_Email" path="packages/apps/Email" remote="github" />
+  <project name="Sym-Link/android_packages_apps_Email" path="packages/apps/Email" remote="github" />
 </manifest>
