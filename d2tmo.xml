@@ -15,7 +15,7 @@
   <project name="CyanogenMod/android_device_samsung_jflte" path="device/samsung/jflte" remote="github" />
   <project name="Sym-Link/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="github" />
   <project name="tdm/android_kernel_samsung_klte" path="kernel/samsung/klte" remote="github" />
-  <project name="tdm/android_device_samsung_klte" path="device/samsung/klte" remote="github" />
+  <project name="garwynn/android_device_samsung_klte" path="device/samsung/klte" remote="github" />
   <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" />
   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" />
   <project name="CyanogenMod/android_device_asus_grouper" path="device/asus/grouper" remote="github" />
