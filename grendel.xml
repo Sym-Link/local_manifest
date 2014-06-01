@@ -11,6 +11,7 @@
   <project name="elelinux/android_kernel_samsung_klte" path="kernel/samsung/klte" remote="github" />
   <project name="elelinux/android_device_samsung_klte-common" path="device/samsung/klte" remote="github" />
   <project name="elelinux/android_device_samsung_kltexx" path="device/samsung/kltexx" remote="github" />
+  <project name="elelinux/android_device_samsung_klte" path="device/samsung/klte" remote="github" />
   <remove-project name="CyanogenMod/android_packages_apps_Email" path="packages/apps/Email" remote="github" />
   <project name="Sym-Link/android_packages_apps_Email" path="packages/apps/Email" remote="github" />
 </manifest>
