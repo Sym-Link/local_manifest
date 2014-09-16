@@ -13,5 +13,5 @@
   <remove-project name="CyanogenMod/android_hardware_qcom_media-caf" path="hardware/qcom/media-caf" groups="caf" />
   <project name="Team-Hydra/android_hardware_qcom_media-caf" path="hardware/qcom/media-caf" groups="caf" />
   <remove-project name="CyanogenMod/android_hardware_qcom_audio-caf" path="hardware/qcom/audio-caf" groups="caf" />
-  <project name="Team-Hydra/android_hardware_qcom_audio-caf" path="hardware/qcom/audio-caf" groups="caf" />
+  <project name="CyanogenMod/android_hardware_qcom_audio-caf" path="hardware/qcom/audio-caf" groups="caf" />
 </manifest>
