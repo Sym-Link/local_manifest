@@ -21,5 +21,7 @@
   <remove-project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="Team-Hydra/android_hardware_libhardware_legacy" groups="pdk" />
   <remove-project path="build" name="CyanogenMod/android_build" groups="pdk,tradefed" >
+    <copyfile src="core/root.mk" dest="Makefile" />
   <project path="build" name="Team-Hydra/android_build" groups="pdk,tradefed" >
+    <copyfile src="core/root.mk" dest="Makefile" />
 </manifest>
