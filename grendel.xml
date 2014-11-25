@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="Team-Hydra/android_vendor_samsung" path="vendor/samsung" remote="github" />
+  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="github" />
   <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom" remote="github" />
   <project name="TheMuppets/proprietary_vendor_elan" path="vendor/elan" remote="github" />
@@ -8,16 +8,4 @@
   <project name="TheMuppets/proprietary_vendor_nvidia" path="vendor/nvidia" remote="github" />
   <project name="TheMuppets/proprietary_vendor_nxp" path="vendor/nxp" remote="github" />
   <project name="TheMuppets/proprietary_vendor_widevine" path="vendor/widevine" remote="github" />
-  <remove-project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
-  <project path="vendor/cm" name="Team-Hydra/android_vendor_cm" />
-  <remove-project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" />
-  <project path="packages/apps/Settings" name="Team-Hydra/android_packages_apps_Settings" />
-  <remove-project path="frameworks/av" name="CyanogenMod/android_frameworks_av" groups="pdk" />
-  <project path="frameworks/av" name="Team-Hydra/android_frameworks_av" groups="pdk" />
-  <remove-project path="frameworks/opt/telephony" name="CyanogenMod/android_frameworks_opt_telephony" groups="pdk" />
-  <project path="frameworks/opt/telephony" name="Team-Hydra/android_frameworks_opt_telephony" groups="pdk" />
-  <remove-project path="external/icu" name="CyanogenMod/android_external_icu" groups="pdk" />
-  <project path="external/icu" name="Team-Hydra/android_external_icu" groups="pdk" />
-  <remove-project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" groups="pdk" />
-  <project path="hardware/libhardware_legacy" name="Team-Hydra/android_hardware_libhardware_legacy" groups="pdk" />
 </manifest>
